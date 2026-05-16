@@ -1,5 +1,8 @@
 # Momentum
 
+## Demo Link
+https://momentum-six-lime.vercel.app/
+
 ## Overview
 
 Momentum is a smart habit tracker that helps users build consistency through daily tracking, streak analysis, and energy-aware scheduling. Built in one week for the Shortcut Asia Internship Challenge 2026.
